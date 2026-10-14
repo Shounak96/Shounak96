@@ -8,11 +8,11 @@ I build backend systems and AI-powered applications, with a particular interest 
 
 🎓 M.S. in Computer Science from Iowa State University
 
-💻 I build backend systems and scalable applications, focusing on system design, performance, and reliability.
+💻 I build backend systems and **scalable applications**, focusing on **system design, performance, and reliability**.
 
 🤖 I work at the intersection of **backend engineering and applied AI**, building with LLMs, RAG, semantic search, recommendation systems, and AI agents.
 
-🔍 Interested in what happens beyond the AI demo: evaluation, performance, reliability, and production engineering
+🔍 Interested in what happens beyond the AI demo: **evaluation, performance, reliability, and production engineering**
 
 🌱 Currently digging deeper into **agentic workflows, retrieval systems, and LLM evaluation**, while continuing to strengthen my backend and system design skills.
 
